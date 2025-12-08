@@ -24,8 +24,8 @@ Pictures/
     chinese_topics.png
 
 Report/
-    Report.pdf
-    Report.docx
+    Report.pdf                  (6150_Individual_Project_WayneFormat)
+    Report.docx                 (6150_Individual_Project_WayneFormat)
 
 Part 3: Run pip install pandas numpy scikit-learn jieba matplotlib wordcloud
 
@@ -35,7 +35,7 @@ Figure comparing average topic weights
 Preprocessed Chinese segmentation example
 All images used in the report are stored in Pictures/.
 
-The final written report is located in the report folder
+The final written report is located in the report folder as pdf and word doc. (6150_Individual_Project_WayneFormat)
 
 
 References:
